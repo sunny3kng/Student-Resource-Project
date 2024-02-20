@@ -1,0 +1,2 @@
+# FastAPI - Student Resource Project
+ 
